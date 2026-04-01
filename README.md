@@ -8,7 +8,7 @@ Welcome to my portfolio website! Here you'll find my projects, experience, and r
 
 ## 📌 About Me
 
-I am a student at the University of Oregon studying Business. I have experience in data analysis, financial modeling, and project management.
+Born and raised in Roseville, California, I attend the University of Oregon studying Sports Business and Economics. I have experience in data analysis, financial modeling, and project management. This includes proficiency tools such as Excel, and an intermediate understanding in Tableau, SRSS, and Python.
 
 - 📍 Location: Eugene, Oregon
 - 📫 Email: npspenker@gmail.com
@@ -24,10 +24,10 @@ I am a student at the University of Oregon studying Business. I have experience 
 
 ## 🛠️ Skills
 
+- Strong knowledge of sport
 - Python (pandas, numpy)
 - Excel / Financial Modeling
 - Data Visualization
-- SQL
 
 ---
 
@@ -44,7 +44,18 @@ I am a student at the University of Oregon studying Business. I have experience 
 
 ---
 
-### 📈 Project 2: Finance Project
+### 📈 Project 2: Sacramento River Cats Pro Forma Budget Project
+![Project Preview](images/project2.png)
+
+- Built NPV model and forecasting tool
+- Evaluated investment decisions
+- Key takeaway: Improved ROI analysis
+
+🔗 [View Project](https://github.com/yourusername/project2)
+
+---
+
+### 📈 Project 3: Athlete Marketing Project
 ![Project Preview](images/project2.png)
 
 - Built NPV model and forecasting tool
