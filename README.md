@@ -1,3 +1,13 @@
+/* style.css */
+body {
+    background-color: #f0f4f8; /* light blue background */
+    color: #111; /* text color */
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+
 # 👋 Hi, I'm Nolan Spenker
 
 🎓 Sports Business Student | 📊 Data Analyst | 💼 Aspiring Sports Analyst
