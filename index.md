@@ -4,9 +4,9 @@ title: Home
 ---
 ## 📌 About Me
 
-Born and raised in Roseville, California, I moved to Oregon during the summer of 2023. Since then, I have been enrolled at the University of Oregon studying Sports Business and Economics. With great academic standing, I am graduating two quarters early in December 2026.
+Born and raised in Roseville, California, I developed a strong passion for sports and data at an early age, with a particular interest in statistics, trends, and unique insights within the game. This interest ultimately led me to pursue a career in the sports industry.
 
-I have valuable experience in data analysis, financial modeling, and project management. This includes proficiency in tools such as Excel, various presentation applications, and an intermediate understanding in Tableau, SPSS, and Python.
+In the summer of 2023, I enrolled at the University of Oregon, where I am currently studying Sports Business and Economics. Maintaining strong academic standing, I am on track to graduate two quarters early in December 2026.
 
 - 📍 Location: Eugene, Oregon
 - 📫 Email: npspenker@gmail.com
@@ -22,10 +22,24 @@ I have valuable experience in data analysis, financial modeling, and project man
 
 ## 🛠️ Skills
 
-- Strong knowledge of sport
+### 💻 Technical Skills
 - Python (pandas, numpy)
-- Excel / Financial Modeling
-- Data Visualization
+- Excel (financial modeling, forecasting, NPV analysis)
+- Data Visualization (Tableau, Excel)
+- Statistical Analysis (SPSS, regression analysis)
+
+### 🧠 Practical Skills
+- Data-driven decision making
+- Financial modeling & valuation
+- Project management
+- Presentation & communication
+- Problem-solving and critical thinking
+
+### ⚽ Tactical / Sports Skills
+- Strong understanding of sports analytics and metrics
+- Game strategy and performance evaluation
+- Player/team performance analysis
+- Knowledge of sports business operations
 
 ---
 
