@@ -5,7 +5,9 @@ title: Home
 
 ## 📌 About Me
 
-Born and raised in Roseville, California, I attend the University of Oregon studying Sports Business and Economics. I have experience in data analysis, financial modeling, and project management. This includes proficiency tools such as Excel, and an intermediate understanding in Tableau, SPSS, and Python.
+Born and raised in Roseville, California, I moved to Oregon during the summer of 2023. Since then, I have been enrolled at the University of Oregon studying Sports Business and Economics. With great academic standing, I am graduating two quarters early in December 2026.
+
+I have valuable experience in data analysis, financial modeling, and project management. This includes proficiency in tools such as Excel, various presentation applications, and an intermediate understanding in Tableau, SPSS, and Python.
 
 - 📍 Location: Eugene, Oregon
 - 📫 Email: npspenker@gmail.com
