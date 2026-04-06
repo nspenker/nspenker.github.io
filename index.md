@@ -3,8 +3,6 @@ layout: default
 title: Home
 ---
 
-# 👋 Hi, I'm Nolan Spenker 
-
 ## 📌 About Me
 
 Born and raised in Roseville, California, I attend the University of Oregon studying Sports Business and Economics. I have experience in data analysis, financial modeling, and project management. This includes proficiency tools such as Excel, and an intermediate understanding in Tableau, SPSS, and Python.
