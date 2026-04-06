@@ -76,11 +76,11 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 🔗 [View Project](https://github.com/yourusername/project2)
 
----
+---      
 
 ## 📬 Contact
 
 Feel free to reach out!
 
 - Email: npspenker@gmail.com
-- LinkedIn: https://linkedin.com/in/nolan-spenker-210640355
+- LinkedIn: [Nolan Spenker](https://linkedin.com/in/nolan-spenker-210640355)
