@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 # 👋 Hi, I'm Nolan Spenker
 
 🎓 Sports Business Student | 📊 Data Analyst | 💼 Aspiring Sports Analyst
@@ -8,7 +13,7 @@ Welcome to my portfolio website! Here you'll find my projects, experience, and r
 
 ## 📌 About Me
 
-Born and raised in Roseville, California, I attend the University of Oregon studying Sports Business and Economics. I have experience in data analysis, financial modeling, and project management. This includes proficiency tools such as Excel, and an intermediate understanding in Tableau, SRSS, and Python.
+Born and raised in Roseville, California, I attend the University of Oregon studying Sports Business and Economics. I have experience in data analysis, financial modeling, and project management. This includes proficiency tools such as Excel, and an intermediate understanding in Tableau, SPSS, and Python.
 
 - 📍 Location: Eugene, Oregon
 - 📫 Email: npspenker@gmail.com
