@@ -10,7 +10,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 - 📍 Location: Eugene, Oregon
 - 📫 Email: npspenker@gmail.com
-- 🔗 LinkedIn: https://linkedin.com/in/nolan-spenker-210640355
+- 🔗 LinkedIn: [Nolan Spenker](https://linkedin.com/in/nolan-spenker-210640355)
 
 ---
 
