@@ -58,6 +58,9 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ### 📈 Project 2: Sacramento River Cats Pro Forma Budget Project
 ![Project Preview](rivercats.png)
+<a href="river_cats_pro_forma.pdf">
+  <img src="rivercats.png" width:60%; max-width:500px;">
+</a>
 
 - Built NPV model and forecasting tool
 - Evaluated investment decisions
