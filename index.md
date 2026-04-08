@@ -75,9 +75,9 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 - Create an anaytical question in baseball and statistically examined its impact on the league using SPSS and Excel
 - <strong>Key Takeaway:</strong> Identified trends in X
 
-<!--[Project Preview](images/project1.png) -->!
+<!-- [Project Preview](images/project1.png) -->
 
-<!--🔗 [View Project](https://github.com/yourusername/project1) -->!
+<!-- 🔗 [View Project](https://github.com/yourusername/project1) -->
 
 ---
 
