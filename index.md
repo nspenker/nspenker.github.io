@@ -68,7 +68,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 ---
 
 ### 📈 Project 3: Athlete Marketing Project
-![Project Preview](images/project2.png)
+![Project Preview](Screenshot_8-4-2026_10410_nspenker.github.io.png)
 
 - Built NPV model and forecasting tool
 - Evaluated investment decisions
