@@ -58,49 +58,11 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ### 📈 Project 2: Sacramento River Cats Pro Forma Budget Project
 
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 30px;">
-
-  <!-- LEFT SIDE: TEXT -->
-  <div style="flex: 1;">
-    <h3>📈 Project 2: Sacramento River Cats Pro Forma Budget</h3>
-    
-    <ul>
-      <li>Developed a full pro forma financial model for a AAA Minor League Baseball team</li>
-      <li>Forecasted revenue streams including ticket sales, sponsorships, concessions, and parking</li>
-      <li><strong>Key takeaway:</strong> Determined the organization would operate at a projected profit of ~$1.6M</li>
-    </ul>
-
-    <p>🔗 <a href="river_cats_pro_forma.pdf">View Full Project</a></p>
-  </div>
-
-  <!-- RIGHT SIDE: IMAGE -->
-  <div>
-    <a href="river_cats_pro_forma.pdf">
-      <img src="images/rivercats.png" style="width:250px; border-radius:10px;">
-    </a>
-  </div>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- Developed a full pro forma financial model for a AAA Minor League Baseball team
+- Forecasted revenue streams including ticket sales, sponsorships, concessions, and parking
+- <strong>Key takeaway:</strong> Determined the organization would operate at a projected profit of ~$1.6M
 
 ![Project Preview](rivercats.png)
-
-- Built a full pro forma financial model for the Sacramento River Cats by projecting attendance, ticket pricing, revenue streams (tickets, concessions, sponsorships, parking), and operating expenses for the 2026 season.
-- Found that despite a significant attendance drop due to sharing a stadium with the Athletics, the team is still projected to generate about $16.3M in revenue and earn a profit of roughly $1.63M.
-- Key takeaway: even with declining attendance, diversified revenue streams (especially sponsorships, concessions, and parking) can keep minor league teams financially stable and profitable.
 
 🔗 [View Full Project](river_cats_pro_forma.pdf)
 
