@@ -69,11 +69,12 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 ---
 
 ### 📈 Project 3: Athlete Marketing Project
-![Project Preview](athletemarketingplan.png)
 
-- Conducted a comprehensive social media and brand audit of a professional athlete, analyzing audience demographics, content strategy, and engagement trends  
-- Developed a strategic marketing plan including brand partnership recommendations and both digital and in-person activation campaigns  
-- Key takeaway: Demonstrated how aligning athlete identity with targeted brand partnerships can drive audience growth and engagement
+- Conducted a social media and brand audit, analyzing audience demographics and engagement trends  
+- Developed a targeted marketing strategy with partnership recommendations and activation campaigns  
+- <strong>Key takeaway:</strong> Leveraged brand alignment to drive audience growth and engagement
+
+![Project Preview](athletemarketingplan.png)
 
 🔗 [View Full Project](athlete_marketing_plan.pdf)
 
