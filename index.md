@@ -45,18 +45,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ## 💼 <strong>Projects </strong> 
 
-### 📊 Project 1: Data Analysis Project
-![Project Preview](images/project1.png)
-
-- Analyzed dataset using Python and pandas
-- Built regression model and visualizations
-- Key takeaway: Identified trends in X
-
-🔗 [View Project](https://github.com/yourusername/project1)
-
----
-
-### 📈 Project 2: Sacramento River Cats Pro Forma Budget Project
+### 📈 Project 1: Sacramento River Cats Pro Forma Budget Project
 
 - Developed a full pro forma financial model for a AAA Minor League Baseball team
 - Forecasted revenue streams including ticket sales, sponsorships, concessions, and parking
@@ -68,7 +57,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ---
 
-### 📈 Project 3: Athlete Marketing Project
+### 📈 Project 2: Athlete Marketing Project
 
 - Conducted a social media and brand audit, analyzing audience demographics and engagement trends  
 - Developed a targeted marketing strategy with partnership recommendations and activation campaigns  
@@ -78,7 +67,19 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 🔗 [View Full Project](athlete_marketing_plan.pdf)
 
----      
+---  
+
+### 📊 Project 3: MLB Analytic Project (SOON TO COME!)
+
+- Analyze a dataset by scraping MLB Savant using Python and AI resources
+- Create an anaytical question in baseball and statistically examined its impact on the league using SPSS and Excel
+- <strong>Key Takeaway:</strong> Identified trends in X
+
+![Project Preview](images/project1.png)
+
+🔗 [View Project](https://github.com/yourusername/project1)
+
+---
 
 ## 📬 <strong>Contact </strong> 
 
