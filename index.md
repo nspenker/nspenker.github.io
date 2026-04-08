@@ -59,9 +59,9 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 ### 📈 Project 2: Sacramento River Cats Pro Forma Budget Project
 ![Project Preview](rivercats.png)
 
-- Built NPV model and forecasting tool
-- Evaluated investment decisions
-- Key takeaway: Improved ROI analysis
+- Built a full pro forma financial model for the Sacramento River Cats by projecting attendance, ticket pricing, revenue streams (tickets, concessions, sponsorships, parking), and operating expenses for the 2026 season.
+- Found that despite a significant attendance drop due to sharing a stadium with the Athletics, the team is still projected to generate about $16.3M in revenue and earn a profit of roughly $1.63M.
+- Key takeaway: even with declining attendance, diversified revenue streams (especially sponsorships, concessions, and parking) can keep minor league teams financially stable and profitable.
 
 🔗 [View Full Project](river_cats_pro_forma.pdf)
 
