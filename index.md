@@ -70,9 +70,9 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 ### 📈 Project 3: Athlete Marketing Project
 ![Project Preview](athletemarketingplan.png)
 
-- Built NPV model and forecasting tool
-- Evaluated investment decisions
-- Key takeaway: Improved ROI analysis
+- Conducted a comprehensive social media and brand audit of a professional athlete, analyzing audience demographics, content strategy, and engagement trends  
+- Developed a strategic marketing plan including brand partnership recommendations and both digital and in-person activation campaigns  
+- Key takeaway: Demonstrated how aligning athlete identity with targeted brand partnerships can drive audience growth and engagement
 
 🔗 [View Full Project](athlete_marketing_plan.pdf)
 
