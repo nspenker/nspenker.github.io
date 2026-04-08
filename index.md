@@ -74,7 +74,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 - Evaluated investment decisions
 - Key takeaway: Improved ROI analysis
 
-🔗 [View Project](athlete_marketing_plan.pdf)
+🔗 [View Full Project](athlete_marketing_plan.pdf)
 
 ---      
 
