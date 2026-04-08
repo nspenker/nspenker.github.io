@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-## 📌 About Me
+## 📌 <strong>About Me </strong> 
 
 Born and raised in Roseville, California, I developed a strong passion for sports and data at an early age, with a particular interest in statistics, trends, and unique insights within the game. This interest ultimately led me to pursue a career in the sports industry.
 
@@ -14,13 +14,13 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ---
 
-## 📄 Resume
+## 📄 <strong>Resume </strong>
 
 [Download My Resume](resume.pdf)
 
 ---
 
-## 🛠️ Skills Overview
+## 🛠️ <strong>Skills Overview </strong>
 
 ### 💻 Technical Skills
 - Python (pandas, numpy)
@@ -43,7 +43,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ---
 
-## 💼 Projects
+## 💼 <strong>Projects </strong> 
 
 ### 📊 Project 1: Data Analysis Project
 ![Project Preview](images/project1.png)
@@ -80,7 +80,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ---      
 
-## 📬 Contact
+## 📬 <strong>Contact </strong> 
 
 Feel free to reach out!
 
