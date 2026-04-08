@@ -20,7 +20,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills Overview
 
 ### 💻 Technical Skills
 - Python (pandas, numpy)
