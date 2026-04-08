@@ -29,17 +29,17 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 - Statistical Analysis (SPSS, regression analysis)
 
 ### 🧠 Practical Skills
-- Data-driven decision making
-- Financial modeling & valuation
-- Project management
-- Presentation & communication
-- Problem-solving and critical thinking
+- Data collection and real-time data entry (play-by-play sports data)
+- Data-driven decision making and analysis
+- Financial modeling and valuation
+- Project management and team leadership
+- Professional communication and presentation
 
 ### ⚽ Tactical / Sports Skills
-- Strong understanding of sports analytics and metrics
-- Game strategy and performance evaluation
-- Player/team performance analysis
-- Knowledge of sports business operations
+- Sports analytics and performance tracking
+- Play-by-play data analysis (football and basketball)
+- Game flow, clock management, and possession analysis
+- Knowledge of sports business operations and fan engagement
 
 ---
 
