@@ -4,7 +4,7 @@ title: Home
 ---
 ## 📌 <strong>About Me </strong> 
 
-Born and raised in Roseville, California, I developed a strong passion for sports and data at an early age, with a particular interest in statistics, trends, and unique insights within the game. This interest ultimately led me to pursue a career in the sports industry.
+Born and raised in Roseville, California, I developed a strong passion for sports and data at an early age, with a particular interest in statistics, trends, and unique insights within the game. This interest ultimately led me to pursue a career in the sports analytics industry.
 
 In the summer of 2023, I enrolled at the University of Oregon, where I am currently studying Sports Business and Economics. Maintaining strong academic standing, I am on track to graduate two quarters early in December 2026.
 
