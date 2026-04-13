@@ -22,6 +22,15 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ## 🛠️ <strong>Skills Overview </strong>
 
+- Excel  
+  ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
+- SPSS  
+  ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
+- Python  
+  ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow)
+- R Studio 
+  ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow)
+
 ### 💻 Technical Skills
 - Python (pandas, numpy)
 - Excel (financial modeling, forecasting, NPV analysis)
