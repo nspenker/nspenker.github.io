@@ -23,36 +23,23 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 ## 🛠️ <strong>Skills Overview </strong>
 
 ### 💻 Technical Skills
-- Excel (financial modeling, forecasting, NPV analysis)  
-  ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
-- SPSS (statistical analysis, regression analysis) 
-  ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
-- Python (pandas, numpy)  
-  ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow)
-- R Studio (data visualization) 
-  ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow)
+- Excel (financial modeling, forecasting, NPV analysis) ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
+- SPSS (statistical analysis, regression analysis) ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
+- Python (pandas, numpy) ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow)
+- R Studio (data visualization) ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow)
 
 ### 🧠 Practical Skills
-- Data collection and real-time data entry   
-  ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
-- Data-driven decision making and analysis 
-  ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
-- Professional communication and presentation
-  ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
-- Project management and team leadership
-  ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
-- Financial modeling and valuation
-  ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow)
+- Data collection and real-time data entry ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
+- Data-driven decision making and analysis ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
+- Professional communication and presentation ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
+- Project management and team leadership ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
+- Financial modeling and valuation ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
 
 ### ⚽ Tactical / Sports Skills
-- Sports analytics and performance tracking
-  ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
-- Play-by-play data analysis
-  ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
-- Game flow, clock management, and possession analysis 
-  ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
-- Knowledge of sports business operations and fan engagement
-  ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow)
+- Sports analytics and performance tracking ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
+- Play-by-play data analysis ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
+- Game flow, clock management, and possession analysis ![Advanced](https://img.shields.io/badge/Level-Advanced-green)
+- Knowledge of sports business operations and fan engagement ![Intermediate](https://img.shields.io/badge/Level-Intermediate-yellow)
 
 ---
 
