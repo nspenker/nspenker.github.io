@@ -69,7 +69,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ---  
 
-### Project 3: MLB Analytic Project (SOON TO COME!)
+### Project 3: MLB Statcast Pitching Performance Analysis (SOON TO COME!)
 
 - Scraped and compiled pitch-level data from MLB Statcast (Baseball Savant) using Python and AI-assisted tools
 - Analyzed pitcher performance by linking physical metrics (e.g., spin rate) to outcomes (e.g., slugging percentage against) using SPSS and Excel
