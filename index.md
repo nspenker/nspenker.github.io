@@ -71,8 +71,8 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ### Project 3: MLB Analytic Project (SOON TO COME!)
 
-- Analyze a dataset by scraping MLB Savant using Python and AI resources
-- Create an anaytical question in baseball and statistically examined its impact on the league using SPSS and Excel
+- Scraped and compiled pitch-level data from MLB Statcast (Baseball Savant) using Python and AI-assisted tools
+- Analyzed pitcher performance by linking physical metrics (e.g., spin rate) to outcomes (e.g., slugging percentage against) using SPSS and Excel
 - <strong>Key Takeaway:</strong> Identified trends in X
 
 <!-- [Project Preview](images/project1.png) -->
