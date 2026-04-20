@@ -45,7 +45,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ## <strong>Projects </strong> 
 
-### Project 1: Sacramento River Cats Pro Forma Budget Project
+### Project 1: Sacramento River Cats Pro Forma Budget 2026 Season
 
 - Developed a full pro forma financial model for a AAA Minor League Baseball team
 - Forecasted revenue streams including ticket sales, sponsorships, concessions, and parking
@@ -57,7 +57,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ---
 
-### Project 2: Athlete Marketing Project
+### Project 2: Athlete Marketing Pitch
 
 - Conducted a social media and brand audit, analyzing audience demographics and engagement trends  
 - Developed a targeted marketing strategy with partnership recommendations and activation campaigns  
