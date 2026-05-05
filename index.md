@@ -45,31 +45,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ## <strong>Projects </strong> 
 
-### Project 1: Sacramento River Cats Pro Forma Budget 2026 Season
-
-- Developed a full pro forma financial model for a AAA Minor League Baseball team
-- Forecasted revenue streams including ticket sales, sponsorships, concessions, and parking
-- <strong>Key takeaway:</strong> Determined the organization would operate at a projected profit of ~$1.6M
-
-![Project Preview](rivercats.png)
-
-🔗 [View Full Project](river_cats_pro_forma.pdf)
-
----
-
-### Project 2: Athlete Marketing Pitch
-
-- Conducted a social media and brand audit, analyzing audience demographics and engagement trends  
-- Developed a targeted marketing strategy with partnership recommendations and activation campaigns  
-- <strong>Key takeaway:</strong> Leveraged brand alignment to drive audience growth and engagement
-
-![Project Preview](athletemarketingplan.png)
-
-🔗 [View Full Project](athlete_marketing_plan.pdf)
-
----  
-
-### Project 3: MLB Statcast Pitching Performance Analysis (SOON TO COME!)
+### Project 1: MLB Statcast Pitching Performance Analysis
 
 - Scraped and compiled pitch-by-pitch data from MLB Statcast (baseballr) using R-studio and AI-assisted tools
 - Analyzed pitcher performance by breaking down physical metrics (e.g., spin rate and velocity) across an entire slate of games
@@ -81,6 +57,30 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 🔗 [View Full Project](Nolan Spenker.pdf)
 
 ---
+
+### Project 2: Sacramento River Cats Pro Forma Budget 2026 Season
+
+- Developed a full pro forma financial model for a AAA Minor League Baseball team
+- Forecasted revenue streams including ticket sales, sponsorships, concessions, and parking
+- <strong>Key takeaway:</strong> Determined the organization would operate at a projected profit of ~$1.6M
+
+![Project Preview](rivercats.png)
+
+🔗 [View Full Project](river_cats_pro_forma.pdf)
+
+---
+
+### Project 3: Athlete Marketing Pitch
+
+- Conducted a social media and brand audit, analyzing audience demographics and engagement trends  
+- Developed a targeted marketing strategy with partnership recommendations and activation campaigns  
+- <strong>Key takeaway:</strong> Leveraged brand alignment to drive audience growth and engagement
+
+![Project Preview](athletemarketingplan.png)
+
+🔗 [View Full Project](athlete_marketing_plan.pdf)
+
+---  
 
 ## <strong>Contact </strong> 
 
