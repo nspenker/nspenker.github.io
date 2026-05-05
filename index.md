@@ -76,9 +76,9 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 - Created a new variable "fatigue_rate" which broke starting pitchers into categories of fatigue based on pitch count.
 - <strong>Key Takeaway:</strong> Identified no statistical evidence for spin rates and velocity dropping throughout the game.
 
-<!-- [Project Preview](images/project1.png) -->
+<!-- [Project Preview](Screenshot 2026-05-05 101224.png) -->
 
-<!-- 🔗 [View Project](https://github.com/yourusername/project1) -->
+<!-- 🔗 [View Project]() -->
 
 ---
 
