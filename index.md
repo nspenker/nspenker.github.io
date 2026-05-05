@@ -71,9 +71,10 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ### Project 3: MLB Statcast Pitching Performance Analysis (SOON TO COME!)
 
-- Scraped and compiled pitch-level data from MLB Statcast (Baseball Savant) using Python and AI-assisted tools
-- Analyzed pitcher performance by linking physical metrics (e.g., spin rate) to outcomes (e.g., slugging percentage against) using SPSS and Excel
-- <strong>Key Takeaway:</strong> Identified trends in X
+- Scraped and compiled pitch-by-pitch data from MLB Statcast (baseballr) using R-studio and AI-assisted tools
+- Analyzed pitcher performance by breaking down physical metrics (e.g., spin rate and velocity) across an entire slate of games
+- Created a new variable "fatigue_rate" which broke starting pitchers into categories of fatigue based on pitch count.
+- <strong>Key Takeaway:</strong> Identified no statistical evidence for spin rates and velocity dropping throughout the game.
 
 <!-- [Project Preview](images/project1.png) -->
 
