@@ -78,7 +78,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 <!-- [Project Preview](Screenshot 2026-05-05 101224.png) -->
 
-<!-- 🔗 [View Project]() -->
+<!-- 🔗 [View Project](Nolan Spenker.pdf) -->
 
 ---
 
