@@ -74,7 +74,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 - Scraped and compiled pitch-by-pitch data from MLB Statcast (baseballr) using R-studio and AI-assisted tools
 - Analyzed pitcher performance by breaking down physical metrics (e.g., spin rate and velocity) across an entire slate of games
 - Created a new variable "fatigue_rate" which broke starting pitchers into categories of fatigue based on pitch count.
-- <strong>Key Takeaway:</strong> Identified no statistical evidence for spin rates and velocity dropping throughout the game.
+- <strong>Key Takeaway:</strong> No statistically significant decline in spin rate or velocity was observed over the course of the game, suggesting that starting pitchers are capable of maintaining effectiveness deep into outings.
 
 <!-- [Project Preview](Screenshot 2026-05-05 101224.png) -->
 
