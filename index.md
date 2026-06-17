@@ -1,12 +1,6 @@
 ---
-<p align="center">
-  <img src="/assets/img/1c8ee37c-6b4f-4229-bcd8-f32a221d3848.jpg" width="220" alt="Nolan Spenker">
-</p>
-
-<h1 align="center">Nolan Spenker</h1>
-<p align="center">
-Sports Business & Economics Student | Sports Analytics | Data Analysis
-</p>
+layout: default
+title: Home
 ---
 ## <strong>About Me </strong> 
 
