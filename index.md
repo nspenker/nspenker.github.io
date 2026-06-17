@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+<img src="/assets/headshot.jpg" alt="Nolan Spenker" width="180" style="border-radius: 50%;">
 
 ## <strong>About Me </strong> 
 
