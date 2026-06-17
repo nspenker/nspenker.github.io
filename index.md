@@ -70,7 +70,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ---
 
-### Project 3: Athlete Marketing Pitch
+### Project 3: Impact of Marginal Extra Rest on NFL Defensive Performance
 
 - Analyzed 50,000+ NFL play-by-play observations (2012–2024) to evaluate how additional recovery time after Thursday Night Football impacts defensive performance
 - Built a data pipeline in Python, R, and Excel to calculate rest differentials, engineer defensive metrics, and perform regression and correlation analysis across position groups. 
