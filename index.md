@@ -78,7 +78,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ![Project Preview](Screenshot 2026-06-17 143552.png)
 
-🔗 [View Full Project](athlete_marketing_plan.pdf)
+🔗 [View Full Project](Operating Business Analytics_ Rest Days.pdf)
 
 ---  
 
