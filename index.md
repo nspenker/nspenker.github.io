@@ -2,6 +2,10 @@
 layout: default
 title: Home
 ---
+<p align="center">
+  <img src="/1c8ee37c-6b4f-4229-bcd8-f32a221d3848.jpg" width="250" alt="Nolan Spenker">
+</p>
+
 ## <strong>About Me </strong> 
 
 Born and raised in Roseville, California, I developed a strong passion for sports and data at an early age, with a particular interest in statistics, trends, and unique insights within the game. This interest ultimately led me to pursue a career in the sports analytics industry.
