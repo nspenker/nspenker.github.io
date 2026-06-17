@@ -76,7 +76,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 - Developed a targeted marketing strategy with partnership recommendations and activation campaigns  
 - <strong>Key takeaway:</strong> Leveraged brand alignment to drive audience growth and engagement
 
-![Project Preview](athletemarketingplan.png)
+![Project Preview](Screenshot 2026-06-17 143552.png)
 
 🔗 [View Full Project](athlete_marketing_plan.pdf)
 
