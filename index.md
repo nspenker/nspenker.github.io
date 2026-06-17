@@ -72,9 +72,9 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ### Project 3: Athlete Marketing Pitch
 
-- Conducted a social media and brand audit, analyzing audience demographics and engagement trends  
-- Developed a targeted marketing strategy with partnership recommendations and activation campaigns  
-- <strong>Key takeaway:</strong> Leveraged brand alignment to drive audience growth and engagement
+- Analyzed 50,000+ NFL play-by-play observations (2012–2024) to evaluate how additional recovery time after Thursday Night Football impacts defensive performance
+- Built a data pipeline in Python, R, and Excel to calculate rest differentials, engineer defensive metrics, and perform regression and correlation analysis across position groups. 
+- <strong>Key takeaway:</strong> Found that extra rest produced statistically significant but minimal defensive benefits, increasing defensive EPA by approximately 0.007 per play, while defensive line pressure rates remained effective even on short rest.
 
 ![Project Preview](Screenshot 2026-06-17 143552.png)
 
