@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }}</title>
+</head>
+
+<body>
+
+<div style="background:#4a90e2; color:white; padding:40px;">
+  <div style="display:flex; align-items:center; justify-content:space-between; max-width:1000px; margin:auto;">
+
+    <div>
+      <h1 style="margin:0;">Nolan Spenker Portfolio</h1>
+      <p style="margin-top:10px;">
+        Sports Business Student | Data Analyst | Aspiring Sports Analyst
+      </p>
+    </div>
+
+    <img src="/1c8ee37c-6b4f-4229-bcd8-f32a221d3848.jpg"
+         alt="Nolan Spenker"
+         style="width:180px; border-radius:50%;">
+  </div>
+</div>
+
+<div style="max-width:1000px; margin:auto; padding:20px;">
+  {{ content }}
+</div>
+
+</body>
+</html>
