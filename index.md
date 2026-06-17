@@ -2,9 +2,6 @@
 layout: default
 title: Home
 ---
-<p align="center">
-  <img src="/1c8ee37c-6b4f-4229-bcd8-f32a221d3848.jpg" width="250" alt="Nolan Spenker">
-</p>
 
 ## <strong>About Me </strong> 
 
