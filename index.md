@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-1c8ee37c-6b4f-4229-bcd8-f32a221d3848.jpg
+(1c8ee37c-6b4f-4229-bcd8-f32a221d3848.jpg)
 ---
 
 ## <strong>About Me </strong> 
