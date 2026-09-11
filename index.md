@@ -5,9 +5,13 @@
 
 <link rel="stylesheet" href="css">
 
-Born and raised in Roseville, California, I developed a strong passion for sports and data at an early age, with a particular interest in statistics, trends, and unique insights within the game. This interest ultimately led me to pursue a career in the sports analytics industry.
+### Sports Business | Data Scouting | Sports Operations
 
-In the summer of 2023, I enrolled at the University of Oregon, where I am currently studying Sports Business and Economics. Maintaining strong academic standing, I am on track to graduate two quarters early in December 2026.
+I’m currently a Sports Business student at the University of Oregon and a data scout, where I combine my knowledge of sports with real-time data collection, attention to detail, and decision-making in fast-paced environments.
+
+Before entering the world of sports data, I spent more than five years coaching and mentoring athletes. Those experiences taught me how to evaluate performance, communicate effectively, lead others, and understand the game beyond the numbers.
+
+Looking ahead, my goal is to build a long-term career within a professional sports organization and grow into a high-ranking role where I can play a crucial part in evaluating information, shaping strategy, and making decisions that impact the organization.
 
 - Location: Eugene, Oregon
 - Email: npspenker@gmail.com
