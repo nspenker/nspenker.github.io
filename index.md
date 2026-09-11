@@ -8,9 +8,9 @@
 
 I’m currently a Sports Business student at the University of Oregon and a data scout, where I combine my knowledge of sports with real-time data collection, attention to detail, and decision-making in fast-paced environments.
 
-Before entering the world of sports data, I spent more than five years coaching and mentoring athletes. Those experiences taught me how to evaluate performance, communicate effectively, lead others, and understand the game beyond the numbers.
+Previously, I spent more than ten years coaching, umpiring, and mentoring young athletes. Those experiences taught me how to evaluate performance, communicate effectively, lead operations, and understand the game beyond the numbers.
 
-Looking ahead, my goal is to build a long-term career within a professional sports organization and grow into a high-ranking role where I can play a crucial part in evaluating information, shaping strategy, and making decisions that impact the organization.
+Looking ahead, my goal is to build a long-term career within a professional sports organization and grow into a high-ranking role where I can play a crucial part in evaluating information, shaping strategy, and making good decisions that positively impact the organization.
 
 - Location: Eugene, Oregon
 - Email: npspenker@gmail.com
