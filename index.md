@@ -1,17 +1,17 @@
----
-layout: default
-title: Home
----
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-## <strong>About Me </strong> 
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;750&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="css">
 
 Born and raised in Roseville, California, I developed a strong passion for sports and data at an early age, with a particular interest in statistics, trends, and unique insights within the game. This interest ultimately led me to pursue a career in the sports analytics industry.
 
 In the summer of 2023, I enrolled at the University of Oregon, where I am currently studying Sports Business and Economics. Maintaining strong academic standing, I am on track to graduate two quarters early in December 2026.
 
-- 📍 Location: Eugene, Oregon
-- 📫 Email: npspenker@gmail.com
-- 🔗 LinkedIn: [Nolan Spenker](https://linkedin.com/in/nolan-spenker-210640355)
+- Location: Eugene, Oregon
+- Email: npspenker@gmail.com
+- LinkedIn: [Nolan Spenker](https://linkedin.com/in/nolan-spenker-210640355)
 
 ---
 
@@ -55,7 +55,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ![Project Preview](Screenshot 2026-05-05 101224.png)
 
-🔗 [View Full Project](Nolan Spenker.pdf)
+- [View Full Project](Nolan Spenker.pdf)
 
 ---
 
@@ -67,7 +67,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ![Project Preview](rivercats.png)
 
-🔗 [View Full Project](river_cats_pro_forma.pdf)
+- [View Full Project](river_cats_pro_forma.pdf)
 
 ---
 
@@ -79,7 +79,7 @@ In the summer of 2023, I enrolled at the University of Oregon, where I am curren
 
 ![Project Preview](Screenshot 2026-06-17 143552.png)
 
-🔗 [View Full Project](Operating Business Analytics_ Rest Days.pdf)
+- [View Full Project](Operating Business Analytics_ Rest Days.pdf)
 
 ---  
 
