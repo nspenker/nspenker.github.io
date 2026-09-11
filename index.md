@@ -4,7 +4,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;750&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="css">
-
 ### Sports Business | Data Scouting | Sports Operations
 
 I’m currently a Sports Business student at the University of Oregon and a data scout, where I combine my knowledge of sports with real-time data collection, attention to detail, and decision-making in fast-paced environments.
